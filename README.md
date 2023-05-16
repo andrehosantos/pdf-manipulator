@@ -1,4 +1,4 @@
-Welcome to my portfolio! Here you will find some of the projects I have been working on for my clients. Please note that my portfolio is continuously growing as I negotiate the release of my clients' proprietary code.
+**Welcome to my portfolio! Here you will find some of the projects I have been working on for my clients.** Please note that my portfolio is continuously growing as I negotiate the release of my clients' proprietary code.
 
 If you have any questions, feel free to open a new issue, and I'll be happy to assist you.
 
