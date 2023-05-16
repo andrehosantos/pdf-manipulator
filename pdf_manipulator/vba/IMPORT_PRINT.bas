@@ -16,7 +16,7 @@ Sub Importar_e_Imprimir()
     Dim path As String
     path = TextBox1.Value
     Dim doc1 As Document
-    Set doc1 = OpenDocumentEx("C:\Users\andre\Documents\DIGIX\Blocos\print\numeracao-0002.pdf", openopt)
+  Set doc1 = OpenDocumentEx("C:\path\to\file", openopt)
     With doc1.PrintSettings
         .PrintRange = prnPageRange
         .PageRange = "1-5"
