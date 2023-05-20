@@ -1,7 +1,5 @@
 **Welcome to my portfolio! Here you will find some of the projects I have been working on for my clients.** Please note that my portfolio is continuously growing as I negotiate the release of my clients' proprietary code.
 
-If you have any questions, feel free to open a new issue, and I'll be happy to assist you.
-
 ## ['pdf_manipulator'](https://github.com/andrehosantos/portfolio/pdf_manipulator) Project
 
 The 'pdf_manipulator' project is a powerful tool designed to create and manipulate thousands of Postscript (PS) and PDF files. It offers the following features:
